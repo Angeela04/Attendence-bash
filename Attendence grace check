@@ -4,4 +4,6 @@
 3.Go to this link : http://10.160.3.12:7070/iclock/accounts/login/?next=/iclock/data/transaction/ 
 Username-synergy
 Password-Guest#syn
-4. 
+4. Command to run the bash chmod +x attendance_report.sh
+./attendance_report.sh export.csv 2026-07-10 2026-07-30
+5.File should be in same folder and name should be export .csv
